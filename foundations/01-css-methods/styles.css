@@ -1,0 +1,10 @@
+/* styles.cc */
+
+div
+{
+    background: red;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;   
+}
